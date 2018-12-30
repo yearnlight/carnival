@@ -1,6 +1,8 @@
 # carnival
 
-> A Vue.js project
+> A Vue.js project for 年会系统
+
+根目录下carnival文件夹为最新生产环境包
 
 ## Build Setup
 
