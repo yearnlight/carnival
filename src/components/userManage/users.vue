@@ -51,7 +51,7 @@
 
         <el-table-column property="rechargeAmount" label="充值余额" width="120"></el-table-column>
 
-        <el-table-column property="balance" label="应借款项" width="120"></el-table-column>
+        <el-table-column property="balance" label="应结款项" width="120"></el-table-column>
 
         <el-table-column property label="操作">
           <template slot-scope="scope">
